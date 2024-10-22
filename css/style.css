@@ -12,7 +12,7 @@ body {
 .header-container {
   display: flex;
 }
-.icons {
+div {
   border-color: red;
-  border: 5px solid;
+  border: solid;
 }
